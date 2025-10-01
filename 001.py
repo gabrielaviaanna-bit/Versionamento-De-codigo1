@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 ano_nascimento = int(input("Digite o ano em que você nasceu: "))
+=======
+ano_nascimento = int(input("digite o ano em que voce nasceu:"))
+>>>>>>> Stashed changes
 ano_atual = 2025
 idade = ano_atual - ano_nascimento
 if idade == 18:
